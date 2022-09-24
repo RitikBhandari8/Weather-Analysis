@@ -2,8 +2,9 @@
 
 Team Name – ErrorFree
 Team Members – Ritik Bhandari – 002738904
-		          Dhiral Mayavanshi – 002706357
-		          Rishi Shelly - 002771020
+	       Dhiral Mayavanshi – 002706357
+	       Rishi Shelly - 002771020
+	       
                                                   Weather Analysis
 Scope and Description:
 We will be creating a database on weather analysis from 2017-2022. Historic weather statistics in the range of minimum, maximum and average temperatures in The United States will be analysed and manipulated. Moreover, the other parameters which would be included in the dataset are:
@@ -25,7 +26,11 @@ This project will help us to make the following data interpretations –
 •	Favourable tourist conditions / vacation itinerary 
 •	Scheduling sports tournaments/matches according to suitable weather conditions
 •	Planning appropriate apparels.
-•	Rate of illness in a particular region.
+•	Rate of illness in a particular region. 
+
+
+
+
 
 
 
